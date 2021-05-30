@@ -1,3 +1,3 @@
 # discord-entry-notification-bot
 
-discord でもくもく開始したのを slack で通知するやつ
+discord でもくもく開始したのを slack に通知するやつ
